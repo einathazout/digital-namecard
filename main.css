@@ -15,6 +15,8 @@ section {
 }
 .details-list>section{
 	display: inline-block;
+	width: 23%;
+    	padding: 0;
 }
 p {
 	margin: 0.25rem !important;
@@ -74,7 +76,8 @@ img.profile-pic {
 .col-icon{
 	background-color: black;
 	border-radius: 10px;
-	width: 15%;
+	width: 60%;
+	margin: 0 auto;
 }
 /*.col.is-1 {
 	flex: none;
