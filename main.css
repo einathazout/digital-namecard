@@ -69,6 +69,10 @@ img.profile-pic {
 	overflow: auto;
 }
 
+.col-icon{
+	background-color: black;
+	border-radius: 10px;
+}
 .col.is-1 {
 	flex: none;
 	width: 10%;
