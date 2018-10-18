@@ -127,6 +127,9 @@ img.profile-pic {
 	flex: none;
 	width: 100%;
 }*/
+.col.is-5 {
+	margin-top: 105px;
+}
 .col.is-6 {
 	margin-top: 100px;
 }
