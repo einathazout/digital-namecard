@@ -13,7 +13,9 @@ section {
 	padding-right: 0.5rem;
 	height: auto;
 }
-
+.details-list section{
+	display: inline-block;
+}
 p {
 	margin: 0.25rem !important;
 }
